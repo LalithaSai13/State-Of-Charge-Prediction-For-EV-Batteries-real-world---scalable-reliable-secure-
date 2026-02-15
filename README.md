@@ -1,1 +1,1 @@
-# State-Of-Charge-Prediction-For-EV-Batteries-real-world---scalable-reliable-secure-
+# State Of Charge Prediction For EV Batteries -> Real-world deployed (scalable-reliable-secure)
